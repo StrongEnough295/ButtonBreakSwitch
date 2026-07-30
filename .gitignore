@@ -1,0 +1,9 @@
+# Ignore temporary build folders and object files
+build/
+*.o
+*.d
+
+# Ignore compiled binaries (people should download these from the Releases tab!)
+*.elf
+*.nacp
+*.nro
