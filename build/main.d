@@ -1,4 +1,4 @@
-main.o: C:/devkitPro/examples/switch/templates/application/source/main.c \
+main.o: C:/Users/valor/OneDrive/Desktop/ButtonBreakSwitch/source/main.cpp \
  C:/devkitPro/libnx/include/switch.h \
  C:/devkitPro/libnx/include/switch/types.h \
  C:/devkitPro/libnx/include/switch/result.h \

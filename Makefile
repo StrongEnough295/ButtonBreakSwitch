@@ -42,6 +42,11 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
+
+APP_TITLE	:=	ButtonBreakSwitch
+APP_AUTHOR	:=	StrongEnough
+APP_VERSION	:=	0.8.0
+
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
